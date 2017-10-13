@@ -39,6 +39,18 @@ SEGMENTS = [
         'from': 'x:-71.07844233512878 y:42.47060912405725',
         'to': 'x:-71.07273459434509 y:42.469192529812155',
     },
+    {
+        'name': 'Lynn Fells Parkway Westbound',
+        'description': 'From Saugus to Stowecroft Road',
+        'from': 'x:-71.04678153991699 y:42.46872560066154',
+        'to': 'x:-71.05535387992859 y:42.464831750763416',
+    },
+    {
+        'name': 'Lynn Fells Parkway Eastbound',
+        'description': 'From Stowecroft Road. to Saugus',
+        'from': 'x:-71.07273459434509 y:42.469192529812155',
+        'to': 'x:-71.07844233512878 y:42.47060912405725',
+    },
 
 ]
 
